@@ -1,0 +1,4 @@
+# Project exclude paths
+/gmall2020-common/target/
+/gmall2020-mock-db/target/
+/gmall2020-mock-log/target/
